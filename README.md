@@ -2,6 +2,16 @@
 
 ## Software Versions
 
+[V2.250828 - Maverick Storm 4 Profile](https://github.com/Chauvet-Pro/MAVERICKSTORM4PROFILE/blob/5b5b6ac3c630f3571166a198d0dda0bb3d431fdc/firmware/V2.250828.zip)
+- Changed sACN universe range to 1-32000
+
+[V2.250423 - Maverick Storm 4 Profile](https://github.com/Chauvet-Pro/MAVERICKSTORM4PROFILE/blob/5b5b6ac3c630f3571166a198d0dda0bb3d431fdc/firmware/V2.250423.zip)
+- Changed how to input sACN and ArtNet universe in menu
+- Changed ArtNet universe range to 0-32767
+- Changed webserver to be used in any control mode
+- Changed how to input sACN and ArtNet universe in webserver
+- Changed close in loss of data to blackout.
+
 [V2.240709 - Maverick Storm 4 Profile](https://github.com/Chauvet-Pro/MAVERICKSTORM4PROFILE/blob/7cd15a668b87e582e9020f2c3ff591d070c6e8be/firmware/V2.240709.zip)
 - Added Sunshield On/Off in the Control channel
      * When the Sunshield is in the light path, dimmer will be off, and zoom and focus are uncontrollable. Power cycle will keep the same settings before power off.
